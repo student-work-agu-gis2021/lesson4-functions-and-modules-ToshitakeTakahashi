@@ -22,6 +22,7 @@
 def fahr_to_celsius(temp_fahrenheit):
   converted_temp=(temp_fahrenheit-32)/1.8;
   return converted_temp
+  
 # ### Problem 1 tests
 # 
 # Check that the function produces correct answers for:
